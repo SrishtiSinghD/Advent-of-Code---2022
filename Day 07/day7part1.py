@@ -46,7 +46,7 @@ class File:
     def printContent(self):
         print(self.name, "-->",self.size)
 
-fileobj = open("inputday7.txt","r")
+fileobj = open("Day 07\inputday7.txt","r")
 
 reader = fileobj.readlines()
 

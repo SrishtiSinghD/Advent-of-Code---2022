@@ -1,4 +1,4 @@
-fileobj = open("inputday5.txt","r")
+fileobj = open("Day 05\inputday5.txt","r")
 
 content = fileobj.readlines()
 break_line=0

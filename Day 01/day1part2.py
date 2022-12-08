@@ -3,7 +3,7 @@ import fileinput
 sum=0
 top_three_sum=[0,0,0]
 i=1
-fileobj = open("inputday1.txt","r")
+fileobj = open("Day 01\inputday1.txt","r")
 
 
 # Using fileinput.input() method

@@ -1,4 +1,4 @@
-fileobj = open("inputday6.txt","r")
+fileobj = open("Day 06\inputday6.txt","r")
 
 buffer = fileobj.readlines()[0].strip("\n")
 # print(len(buffer))

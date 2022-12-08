@@ -1,4 +1,4 @@
-# file1 = open("inputday2.txt","r")
+# file1 = open("Day 02\inputday2.txt","r")
 
 # dictMe={}
 # line_no=1
@@ -33,7 +33,7 @@
 
 dictMe={'X': 'A', 'Y': 'B', 'Z': 'C'}
 
-fileobj = open("inputday2.txt","r")
+fileobj = open("Day 02\inputday2.txt","r")
 dictPoints = {'A':1,'B':2,'C':3}
 
 win = 6

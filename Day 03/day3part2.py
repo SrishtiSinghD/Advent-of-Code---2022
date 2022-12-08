@@ -1,4 +1,4 @@
-fileobj = open("inputday3.txt","r")
+fileobj = open("Day 03\inputday3.txt","r")
 
 rucksacks=fileobj.readlines();
 x=0

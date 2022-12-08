@@ -1,4 +1,4 @@
-fileobj = open("inputday4.txt","r")
+fileobj = open("Day 04\inputday4.txt","r")
 count = 0
 
 for line in fileobj.readlines():
